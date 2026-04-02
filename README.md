@@ -1,12 +1,12 @@
 # Hey, I'm Akshit 👋
 
-Looping between production architectures, full-stack systems, and the rabbit holes in between — always chasing what's new.
+Somewhere between production debugging sessions, full-stack systems, and picking up whatever new tech stuff I can get my hands on.
 
 ## What I Do
 
-- 🔧 **SDE Intern @ [Adbrew](https://www.adbrew.io)** — building adtech tools with Python, Django, MongoDB, and React
-- 🧠 **Previously @ [BharatPe](https://bharatpe.com)** — built a self-service bulk KYC rejection product, optimized Confluent Kafka pipelines (30% infra savings), migrated high-traffic APIs from Golang to Java/Spring Boot, and implemented Redis-based distributed locking
-- 🚀 Building [**CollabLearn**](https://collablearn.in) — a full-stack collaboration platform with AI orchestration, streaming workflows, and adaptive backend systems
+- 🔧 **SDE Intern @ [Adbrew](https://www.adbrew.io)** - building adtech tools with Python, Django, MongoDB, and React
+- 🧠 **Previously @ [BharatPe](https://bharatpe.com)** - built a self-service bulk KYC rejection product, optimized Confluent Kafka pipelines (30% infra savings), migrated high-traffic APIs from Golang to Java/Spring Boot, and implemented Redis-based distributed locking
+- 🚀 Building [**CollabLearn**](https://collablearn.in) - a full-stack collaboration platform with AI orchestration, streaming workflows, and adaptive backend systems
 
 ## Currently
 
