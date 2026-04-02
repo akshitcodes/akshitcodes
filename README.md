@@ -1,17 +1,17 @@
 # Hey, I'm Akshit 👋
 
-
+Looping between production architectures, full-stack systems, and the rabbit holes in between — always chasing what's new.
 
 ## What I Do
 
 - 🔧 **SDE Intern @ [Adbrew](https://www.adbrew.io)** — building adtech tools with Python, Django, MongoDB, and React
-- 🧠 Previously interned at **BharatPe** — worked on migration-oriented changes across Java/Spring Boot and React codebases, CI/CD improvements
+- 🧠 **Previously @ [BharatPe](https://bharatpe.com)** — built a self-service bulk KYC rejection product, optimized Confluent Kafka pipelines (30% infra savings), migrated high-traffic APIs from Golang to Java/Spring Boot, and implemented Redis-based distributed locking
 - 🚀 Building [**CollabLearn**](https://collablearn.in) — a full-stack collaboration platform with AI orchestration, streaming workflows, and adaptive backend systems
 
 ## Currently
 
-- 🌐 Contributing to [**BrainBrowser**](https://github.com/aces/brainbrowser) (INCF / GSoC 2026) — auditing and migrating deprecated three.js APIs for neuroscience visualization tooling ([issue #372](https://github.com/aces/brainbrowser/issues/372))
-- 💼 Working at Adbrew on production systems
+- 💼 Working at Adbrew on production adtech systems
+- 🚀 Building and improving CollabLearn
 
 ## Tech
 
@@ -33,6 +33,6 @@ Full-stack collaboration platform built with Next.js, Express, Prisma, and Postg
 
 ## Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/akshit-harjai))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit-harjai/)
 [![Portfolio](https://img.shields.io/badge/CollabLearn-000?style=flat&logo=vercel&logoColor=white)](https://collablearn.in)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:akshit.harjai04@gmail.com)
